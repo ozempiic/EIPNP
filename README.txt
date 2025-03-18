@@ -34,4 +34,4 @@ client.exe
 
 Resources
 
-[Exploring Impersonation through the Named Pipe Filesystem Driver](https://mini-01-s3.vx-underground.org/samples/Papers/Windows/Internals%20and%20Analysis/2023-05-03%20-%20Exploring%20Impersonation%20through%20the%20Named%20Pipe%20Filesystem%20Driver.pdf)
+Exploring Impersonation through the Named Pipe Filesystem Driver - https://mini-01-s3.vx-underground.org/samples/Papers/Windows/Internals%20and%20Analysis/2023-05-03%20-%20Exploring%20Impersonation%20through%20the%20Named%20Pipe%20Filesystem%20Driver.pdf
